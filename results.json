@@ -1,0 +1,1781 @@
+{
+  "dataset_dir": "dataset",
+  "total_images": 198,
+  "detected": 98,
+  "not_detected": 100,
+  "unreadable": 0,
+  "per_image": [
+    {
+      "file": "1.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 225,
+        "y": 8,
+        "w": 96,
+        "h": 96
+      },
+      "center": {
+        "x": 273,
+        "y": 56
+      }
+    },
+    {
+      "file": "10.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 342,
+        "y": 396,
+        "w": 459,
+        "h": 456
+      },
+      "center": {
+        "x": 571,
+        "y": 624
+      }
+    },
+    {
+      "file": "100.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 615,
+        "y": 159,
+        "w": 56,
+        "h": 57
+      },
+      "center": {
+        "x": 643,
+        "y": 187
+      }
+    },
+    {
+      "file": "101.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "102.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1547,
+        "y": 610,
+        "w": 48,
+        "h": 67
+      },
+      "center": {
+        "x": 1571,
+        "y": 643
+      }
+    },
+    {
+      "file": "103.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "104.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "105.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "106.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "107.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "108.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "109.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "11.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 374,
+        "y": 94,
+        "w": 328,
+        "h": 342
+      },
+      "center": {
+        "x": 538,
+        "y": 265
+      }
+    },
+    {
+      "file": "110.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 550,
+        "y": 52,
+        "w": 27,
+        "h": 22
+      },
+      "center": {
+        "x": 563,
+        "y": 63
+      }
+    },
+    {
+      "file": "111.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "112.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 976,
+        "y": 394,
+        "w": 89,
+        "h": 124
+      },
+      "center": {
+        "x": 1020,
+        "y": 456
+      }
+    },
+    {
+      "file": "113.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 508,
+        "y": 233,
+        "w": 55,
+        "h": 49
+      },
+      "center": {
+        "x": 535,
+        "y": 257
+      }
+    },
+    {
+      "file": "114.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "115.jpeg",
+      "status": "not_detected"
+    },
+    {
+      "file": "116.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "117.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "118.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "119.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "12.jpeg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 334,
+        "y": 77,
+        "w": 109,
+        "h": 135
+      },
+      "center": {
+        "x": 388,
+        "y": 144
+      }
+    },
+    {
+      "file": "120.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "121.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "122.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "123.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "124.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "125.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "126.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "127.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "128.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 921,
+        "y": 597,
+        "w": 67,
+        "h": 57
+      },
+      "center": {
+        "x": 954,
+        "y": 625
+      }
+    },
+    {
+      "file": "129.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 0,
+        "y": 1294,
+        "w": 77,
+        "h": 118
+      },
+      "center": {
+        "x": 38,
+        "y": 1353
+      }
+    },
+    {
+      "file": "13.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 440,
+        "y": 148,
+        "w": 45,
+        "h": 56
+      },
+      "center": {
+        "x": 462,
+        "y": 176
+      }
+    },
+    {
+      "file": "130.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "131.jpeg",
+      "status": "not_detected"
+    },
+    {
+      "file": "132.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "133.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "134.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 587,
+        "y": 273,
+        "w": 48,
+        "h": 60
+      },
+      "center": {
+        "x": 611,
+        "y": 303
+      }
+    },
+    {
+      "file": "135.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "136.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "137.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "138.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "139.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 529,
+        "y": 236,
+        "w": 47,
+        "h": 51
+      },
+      "center": {
+        "x": 552,
+        "y": 261
+      }
+    },
+    {
+      "file": "14.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 816,
+        "y": 333,
+        "w": 65,
+        "h": 61
+      },
+      "center": {
+        "x": 848,
+        "y": 363
+      }
+    },
+    {
+      "file": "140.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "141.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "142.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "143.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "144.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "145.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1471,
+        "y": 0,
+        "w": 1363,
+        "h": 1362
+      },
+      "center": {
+        "x": 2152,
+        "y": 681
+      }
+    },
+    {
+      "file": "146.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "147.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "148.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "149.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 602,
+        "y": 163,
+        "w": 33,
+        "h": 24
+      },
+      "center": {
+        "x": 618,
+        "y": 175
+      }
+    },
+    {
+      "file": "15.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 812,
+        "y": 239,
+        "w": 103,
+        "h": 104
+      },
+      "center": {
+        "x": 863,
+        "y": 291
+      }
+    },
+    {
+      "file": "150.png",
+      "status": "not_detected"
+    },
+    {
+      "file": "151.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 520,
+        "y": 244,
+        "w": 65,
+        "h": 53
+      },
+      "center": {
+        "x": 552,
+        "y": 270
+      }
+    },
+    {
+      "file": "152.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "153.jpeg",
+      "status": "not_detected"
+    },
+    {
+      "file": "154.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "155.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "156.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "157.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "158.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "159.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "16.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 96,
+        "y": 38,
+        "w": 152,
+        "h": 152
+      },
+      "center": {
+        "x": 172,
+        "y": 114
+      }
+    },
+    {
+      "file": "160.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "161.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "162.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "163.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 4293,
+        "y": 430,
+        "w": 331,
+        "h": 390
+      },
+      "center": {
+        "x": 4458,
+        "y": 625
+      }
+    },
+    {
+      "file": "164.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "165.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "166.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "167.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "168.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "169.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "17.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 363,
+        "y": 123,
+        "w": 131,
+        "h": 130
+      },
+      "center": {
+        "x": 428,
+        "y": 188
+      }
+    },
+    {
+      "file": "170.png",
+      "status": "not_detected"
+    },
+    {
+      "file": "171.jpeg",
+      "status": "not_detected"
+    },
+    {
+      "file": "172.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "173.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "174.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "175.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "176.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "177.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "178.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "179.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "18.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 453,
+        "y": 98,
+        "w": 649,
+        "h": 642
+      },
+      "center": {
+        "x": 777,
+        "y": 419
+      }
+    },
+    {
+      "file": "180.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "181.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "182.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 4866,
+        "y": 706,
+        "w": 353,
+        "h": 333
+      },
+      "center": {
+        "x": 5042,
+        "y": 872
+      }
+    },
+    {
+      "file": "183.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "184.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "185.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "186.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 813,
+        "y": 421,
+        "w": 44,
+        "h": 58
+      },
+      "center": {
+        "x": 835,
+        "y": 450
+      }
+    },
+    {
+      "file": "187.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "188.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "189.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "19.JPG",
+      "status": "detected",
+      "bounding_box": {
+        "x": 430,
+        "y": 64,
+        "w": 70,
+        "h": 76
+      },
+      "center": {
+        "x": 465,
+        "y": 102
+      }
+    },
+    {
+      "file": "190.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "191.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "192.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 537,
+        "y": 321,
+        "w": 22,
+        "h": 24
+      },
+      "center": {
+        "x": 548,
+        "y": 333
+      }
+    },
+    {
+      "file": "193.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 197,
+        "y": 238,
+        "w": 20,
+        "h": 23
+      },
+      "center": {
+        "x": 207,
+        "y": 249
+      }
+    },
+    {
+      "file": "194.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "195.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "196.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "197.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "198.jpeg",
+      "status": "not_detected"
+    },
+    {
+      "file": "199.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "2.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 2060,
+        "y": 385,
+        "w": 702,
+        "h": 665
+      },
+      "center": {
+        "x": 2411,
+        "y": 717
+      }
+    },
+    {
+      "file": "20.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1604,
+        "y": 162,
+        "w": 272,
+        "h": 273
+      },
+      "center": {
+        "x": 1740,
+        "y": 298
+      }
+    },
+    {
+      "file": "200.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "21.JPG",
+      "status": "detected",
+      "bounding_box": {
+        "x": 99,
+        "y": 94,
+        "w": 244,
+        "h": 279
+      },
+      "center": {
+        "x": 221,
+        "y": 233
+      }
+    },
+    {
+      "file": "22.png",
+      "status": "detected",
+      "bounding_box": {
+        "x": 40,
+        "y": 136,
+        "w": 23,
+        "h": 21
+      },
+      "center": {
+        "x": 51,
+        "y": 146
+      }
+    },
+    {
+      "file": "23.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 190,
+        "y": 48,
+        "w": 142,
+        "h": 153
+      },
+      "center": {
+        "x": 261,
+        "y": 124
+      }
+    },
+    {
+      "file": "24.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 520,
+        "y": 128,
+        "w": 32,
+        "h": 32
+      },
+      "center": {
+        "x": 536,
+        "y": 144
+      }
+    },
+    {
+      "file": "25.JPG",
+      "status": "detected",
+      "bounding_box": {
+        "x": 212,
+        "y": 157,
+        "w": 126,
+        "h": 129
+      },
+      "center": {
+        "x": 275,
+        "y": 221
+      }
+    },
+    {
+      "file": "26.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 388,
+        "y": 72,
+        "w": 148,
+        "h": 191
+      },
+      "center": {
+        "x": 462,
+        "y": 167
+      }
+    },
+    {
+      "file": "27.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 315,
+        "y": 118,
+        "w": 60,
+        "h": 68
+      },
+      "center": {
+        "x": 345,
+        "y": 152
+      }
+    },
+    {
+      "file": "28.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 603,
+        "y": 276,
+        "w": 34,
+        "h": 38
+      },
+      "center": {
+        "x": 620,
+        "y": 295
+      }
+    },
+    {
+      "file": "29.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 264,
+        "y": 105,
+        "w": 287,
+        "h": 259
+      },
+      "center": {
+        "x": 407,
+        "y": 234
+      }
+    },
+    {
+      "file": "3.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 579,
+        "y": 88,
+        "w": 195,
+        "h": 192
+      },
+      "center": {
+        "x": 676,
+        "y": 184
+      }
+    },
+    {
+      "file": "30.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 516,
+        "y": 57,
+        "w": 181,
+        "h": 207
+      },
+      "center": {
+        "x": 606,
+        "y": 160
+      }
+    },
+    {
+      "file": "31.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "32.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 332,
+        "y": 247,
+        "w": 92,
+        "h": 103
+      },
+      "center": {
+        "x": 378,
+        "y": 298
+      }
+    },
+    {
+      "file": "33.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 329,
+        "y": 31,
+        "w": 57,
+        "h": 57
+      },
+      "center": {
+        "x": 357,
+        "y": 59
+      }
+    },
+    {
+      "file": "36.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 325,
+        "y": 190,
+        "w": 67,
+        "h": 84
+      },
+      "center": {
+        "x": 358,
+        "y": 232
+      }
+    },
+    {
+      "file": "37.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "38.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 871,
+        "y": 217,
+        "w": 107,
+        "h": 142
+      },
+      "center": {
+        "x": 924,
+        "y": 288
+      }
+    },
+    {
+      "file": "39.jpeg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 148,
+        "y": 0,
+        "w": 96,
+        "h": 98
+      },
+      "center": {
+        "x": 196,
+        "y": 49
+      }
+    },
+    {
+      "file": "4.png",
+      "status": "detected",
+      "bounding_box": {
+        "x": 540,
+        "y": 30,
+        "w": 75,
+        "h": 91
+      },
+      "center": {
+        "x": 577,
+        "y": 75
+      }
+    },
+    {
+      "file": "40.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 406,
+        "y": 101,
+        "w": 71,
+        "h": 72
+      },
+      "center": {
+        "x": 441,
+        "y": 137
+      }
+    },
+    {
+      "file": "41.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1269,
+        "y": 331,
+        "w": 332,
+        "h": 217
+      },
+      "center": {
+        "x": 1435,
+        "y": 439
+      }
+    },
+    {
+      "file": "42.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 812,
+        "y": 239,
+        "w": 103,
+        "h": 104
+      },
+      "center": {
+        "x": 863,
+        "y": 291
+      }
+    },
+    {
+      "file": "43.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 317,
+        "y": 48,
+        "w": 48,
+        "h": 50
+      },
+      "center": {
+        "x": 341,
+        "y": 73
+      }
+    },
+    {
+      "file": "44.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1248,
+        "y": 564,
+        "w": 659,
+        "h": 669
+      },
+      "center": {
+        "x": 1577,
+        "y": 898
+      }
+    },
+    {
+      "file": "45.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "46.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 194,
+        "y": 22,
+        "w": 57,
+        "h": 73
+      },
+      "center": {
+        "x": 222,
+        "y": 58
+      }
+    },
+    {
+      "file": "47.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 502,
+        "y": 225,
+        "w": 48,
+        "h": 47
+      },
+      "center": {
+        "x": 526,
+        "y": 248
+      }
+    },
+    {
+      "file": "48.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 905,
+        "y": 306,
+        "w": 69,
+        "h": 65
+      },
+      "center": {
+        "x": 939,
+        "y": 338
+      }
+    },
+    {
+      "file": "49.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "5.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 312,
+        "y": 99,
+        "w": 179,
+        "h": 161
+      },
+      "center": {
+        "x": 401,
+        "y": 179
+      }
+    },
+    {
+      "file": "50.jpeg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 256,
+        "y": 65,
+        "w": 16,
+        "h": 14
+      },
+      "center": {
+        "x": 264,
+        "y": 72
+      }
+    },
+    {
+      "file": "51.png",
+      "status": "not_detected"
+    },
+    {
+      "file": "52.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "53.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 359,
+        "y": 160,
+        "w": 38,
+        "h": 39
+      },
+      "center": {
+        "x": 378,
+        "y": 179
+      }
+    },
+    {
+      "file": "54.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "55.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 0,
+        "y": 42,
+        "w": 206,
+        "h": 199
+      },
+      "center": {
+        "x": 103,
+        "y": 141
+      }
+    },
+    {
+      "file": "56.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "57.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 520,
+        "y": 128,
+        "w": 32,
+        "h": 32
+      },
+      "center": {
+        "x": 536,
+        "y": 144
+      }
+    },
+    {
+      "file": "58.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 239,
+        "y": 176,
+        "w": 91,
+        "h": 67
+      },
+      "center": {
+        "x": 284,
+        "y": 209
+      }
+    },
+    {
+      "file": "59.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 454,
+        "y": 29,
+        "w": 107,
+        "h": 105
+      },
+      "center": {
+        "x": 507,
+        "y": 81
+      }
+    },
+    {
+      "file": "6.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 62,
+        "y": 53,
+        "w": 107,
+        "h": 99
+      },
+      "center": {
+        "x": 115,
+        "y": 102
+      }
+    },
+    {
+      "file": "60.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "61.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 338,
+        "y": 99,
+        "w": 51,
+        "h": 51
+      },
+      "center": {
+        "x": 363,
+        "y": 124
+      }
+    },
+    {
+      "file": "62.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 92,
+        "y": 103,
+        "w": 36,
+        "h": 36
+      },
+      "center": {
+        "x": 110,
+        "y": 121
+      }
+    },
+    {
+      "file": "63.png",
+      "status": "detected",
+      "bounding_box": {
+        "x": 252,
+        "y": 30,
+        "w": 19,
+        "h": 21
+      },
+      "center": {
+        "x": 261,
+        "y": 40
+      }
+    },
+    {
+      "file": "64.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 672,
+        "y": 145,
+        "w": 57,
+        "h": 58
+      },
+      "center": {
+        "x": 700,
+        "y": 174
+      }
+    },
+    {
+      "file": "65.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 182,
+        "y": 129,
+        "w": 88,
+        "h": 92
+      },
+      "center": {
+        "x": 226,
+        "y": 175
+      }
+    },
+    {
+      "file": "66.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1796,
+        "y": 552,
+        "w": 294,
+        "h": 297
+      },
+      "center": {
+        "x": 1943,
+        "y": 700
+      }
+    },
+    {
+      "file": "67.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 328,
+        "y": 183,
+        "w": 60,
+        "h": 71
+      },
+      "center": {
+        "x": 358,
+        "y": 218
+      }
+    },
+    {
+      "file": "68.jpeg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 160,
+        "y": 97,
+        "w": 86,
+        "h": 127
+      },
+      "center": {
+        "x": 203,
+        "y": 160
+      }
+    },
+    {
+      "file": "69.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 193,
+        "y": 116,
+        "w": 290,
+        "h": 306
+      },
+      "center": {
+        "x": 338,
+        "y": 269
+      }
+    },
+    {
+      "file": "70.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 773,
+        "y": 91,
+        "w": 186,
+        "h": 222
+      },
+      "center": {
+        "x": 866,
+        "y": 202
+      }
+    },
+    {
+      "file": "71.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 325,
+        "y": 190,
+        "w": 67,
+        "h": 84
+      },
+      "center": {
+        "x": 358,
+        "y": 232
+      }
+    },
+    {
+      "file": "72.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 330,
+        "y": 84,
+        "w": 120,
+        "h": 125
+      },
+      "center": {
+        "x": 390,
+        "y": 146
+      }
+    },
+    {
+      "file": "73.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 945,
+        "y": 294,
+        "w": 70,
+        "h": 72
+      },
+      "center": {
+        "x": 980,
+        "y": 330
+      }
+    },
+    {
+      "file": "74.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 133,
+        "y": 908,
+        "w": 551,
+        "h": 794
+      },
+      "center": {
+        "x": 408,
+        "y": 1305
+      }
+    },
+    {
+      "file": "75.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1012,
+        "y": 1218,
+        "w": 298,
+        "h": 305
+      },
+      "center": {
+        "x": 1161,
+        "y": 1370
+      }
+    },
+    {
+      "file": "76.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "77.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 437,
+        "y": 330,
+        "w": 33,
+        "h": 40
+      },
+      "center": {
+        "x": 453,
+        "y": 350
+      }
+    },
+    {
+      "file": "78.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "79.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "8.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 796,
+        "y": 354,
+        "w": 902,
+        "h": 826
+      },
+      "center": {
+        "x": 1247,
+        "y": 767
+      }
+    },
+    {
+      "file": "80.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 727,
+        "y": 525,
+        "w": 48,
+        "h": 56
+      },
+      "center": {
+        "x": 751,
+        "y": 553
+      }
+    },
+    {
+      "file": "81.JPG",
+      "status": "not_detected"
+    },
+    {
+      "file": "82.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 411,
+        "y": 138,
+        "w": 18,
+        "h": 18
+      },
+      "center": {
+        "x": 420,
+        "y": 147
+      }
+    },
+    {
+      "file": "83.JPG",
+      "status": "detected",
+      "bounding_box": {
+        "x": 1353,
+        "y": 1456,
+        "w": 541,
+        "h": 818
+      },
+      "center": {
+        "x": 1623,
+        "y": 1865
+      }
+    },
+    {
+      "file": "84.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 177,
+        "y": 70,
+        "w": 62,
+        "h": 63
+      },
+      "center": {
+        "x": 208,
+        "y": 101
+      }
+    },
+    {
+      "file": "85.jpeg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 610,
+        "y": 0,
+        "w": 172,
+        "h": 161
+      },
+      "center": {
+        "x": 696,
+        "y": 80
+      }
+    },
+    {
+      "file": "86.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 459,
+        "y": 146,
+        "w": 58,
+        "h": 58
+      },
+      "center": {
+        "x": 488,
+        "y": 175
+      }
+    },
+    {
+      "file": "87.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 0,
+        "y": 124,
+        "w": 106,
+        "h": 110
+      },
+      "center": {
+        "x": 53,
+        "y": 179
+      }
+    },
+    {
+      "file": "88.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 589,
+        "y": 74,
+        "w": 88,
+        "h": 114
+      },
+      "center": {
+        "x": 633,
+        "y": 131
+      }
+    },
+    {
+      "file": "89.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "9.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 68,
+        "y": 115,
+        "w": 187,
+        "h": 198
+      },
+      "center": {
+        "x": 161,
+        "y": 214
+      }
+    },
+    {
+      "file": "90.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 452,
+        "y": 39,
+        "w": 88,
+        "h": 131
+      },
+      "center": {
+        "x": 496,
+        "y": 104
+      }
+    },
+    {
+      "file": "91.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "92.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 243,
+        "y": 381,
+        "w": 37,
+        "h": 48
+      },
+      "center": {
+        "x": 261,
+        "y": 405
+      }
+    },
+    {
+      "file": "93.png",
+      "status": "detected",
+      "bounding_box": {
+        "x": 42,
+        "y": 485,
+        "w": 25,
+        "h": 27
+      },
+      "center": {
+        "x": 54,
+        "y": 498
+      }
+    },
+    {
+      "file": "94.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 244,
+        "y": 291,
+        "w": 221,
+        "h": 284
+      },
+      "center": {
+        "x": 354,
+        "y": 433
+      }
+    },
+    {
+      "file": "95.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 83,
+        "y": 34,
+        "w": 59,
+        "h": 77
+      },
+      "center": {
+        "x": 112,
+        "y": 72
+      }
+    },
+    {
+      "file": "96.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 848,
+        "y": 270,
+        "w": 107,
+        "h": 115
+      },
+      "center": {
+        "x": 901,
+        "y": 327
+      }
+    },
+    {
+      "file": "97.jpg",
+      "status": "not_detected"
+    },
+    {
+      "file": "98.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 18,
+        "y": 17,
+        "w": 45,
+        "h": 52
+      },
+      "center": {
+        "x": 40,
+        "y": 43
+      }
+    },
+    {
+      "file": "99.JPG",
+      "status": "detected",
+      "bounding_box": {
+        "x": 603,
+        "y": 1323,
+        "w": 233,
+        "h": 246
+      },
+      "center": {
+        "x": 719,
+        "y": 1446
+      }
+    },
+    {
+      "file": "nickr.jpg",
+      "status": "detected",
+      "bounding_box": {
+        "x": 324,
+        "y": 241,
+        "w": 169,
+        "h": 205
+      },
+      "center": {
+        "x": 408,
+        "y": 343
+      }
+    }
+  ]
+}
